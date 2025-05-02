@@ -1,4 +1,4 @@
 # pracaticeGit
 this is  my new repository on git
 <br>
-Author Suraj
+Author Suraj(Software Engineer)
